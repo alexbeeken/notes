@@ -14,7 +14,7 @@ touch $INDEX_PATH
  
 read -p 'long-title: ' LONG
 
-IDATE=`date +%F_%T`
+IDATE=`date +%F`
 
 read -p 'category: ' CATEGORY
 
