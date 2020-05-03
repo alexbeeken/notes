@@ -33,7 +33,7 @@ class Header extends React.Component {
             <li className="nav-li">
               <h1 className="li-h1" style={blogLinkStyle}>
                 <Link className="li-link" to={`/`}>
-                  Blog
+                  Notes
                 </Link>
               </h1>
             </li>

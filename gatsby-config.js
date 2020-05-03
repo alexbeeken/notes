@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `22Boxes Template Uno`,
+    title: `Alex Beeken Notes`,
     author: {
-      name: `Gagandeep Singh`,
-      summary: `22boxes.com`,
+      name: `Alex Beeken`,
+      summary: `alexbeeken.com`,
     },
-    description: `22Boxes Gatsby template Uno`,
-    siteUrl: `https://22boxesgatsbyuno.netlify.com/`,
+    description: ``,
+    siteUrl: `http://www.alexbeeken.com/`,
     social: {
-      twitter: `twentytwoboxes`,
+      linkedIn: `alexbeeken`,
     },
   },
   plugins: [
